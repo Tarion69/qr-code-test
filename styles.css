@@ -15,6 +15,7 @@ body {
   width: 320px;
   height: 499px;
   background-color: #ffffff;
+  box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.05);
 }
 
 .qr-code-image {
